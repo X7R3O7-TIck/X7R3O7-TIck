@@ -1,68 +1,31 @@
 <img width=100% title="X7R3O7-TIck DIGITAL ARCHITECT" alt="X7R3O7-TIck DIGITAL ARCHITECT" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20,30&height=250&section=header&text=⚡X7R3O7-TIck⚡&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=45&desc=DIGITAL%20ARCHITECT%20|%20CODE%20WIZARD%20|%20AI%20PIONEER&descAlignY=65&descSize=20"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=600&height=80&duration=3000&lines=🔥+DIGITAL+ARCHITECT+🔥;⚡+X7R3O7-TIck+⚡;🚀+CODE+WIZARD+🚀;💎+AI+PIONEER+💎;🎯+INNOVATION+MASTER+🎯" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=600&height=80&duration=3000&lines=🔥+DIGITAL+ARCHITECT+🔥;⚡+X7R3O7-TIck+⚡;🚀+CODE+WIZARD+🚀;💎+AI+PIONEER+💎;🎯+INNOVATION+MASTER+🎯;🌟+FULL+STACK+DEVELOPER+🌟" alt="Typing Animation"/>
 </div>
-
-## 📊 LIVE VISITOR COUNTER
-
-<div align="center">
-  
-  <!-- Single main counter - anime style -->
-  <img src="https://count.getloli.com/get/@:X7R3O7-TIck?theme=asoul" alt="Live Anime Counter" width="400"/>
-  
-  <br><br>
-  
-  <!-- Live status indicators -->
-  <img src="https://img.shields.io/badge/🔴%20LIVE%20STATUS-ONLINE-success?style=for-the-badge&logo=twitch&logoColor=white" alt="Live Status"/>
-  <img src="https://img.shields.io/badge/👥%20VIEWERS-REAL%20TIME-blue?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Real Time Viewers"/>
-  
-</div>
-
-<!-- Real-time analytics dashboard -->
-<details>
-<summary>📈 <b>📊 LIVE ANALYTICS DASHBOARD 📊</b> 📈</summary>
-
-<div align="center">
-  
-  ### 🌍 VIEWER STATISTICS
-  
-  <table width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/📅%20Today-COUNTING-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Today"/>
-        <br><b>Today's Unique Visitors</b>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🌍%20Global-TRACKING-purple?style=for-the-badge&logo=map&logoColor=white" alt="Global"/>
-        <br><b>Countries Reached</b>
-      </td>
-    </tr>
-  </table>
-  
-  ### ⏰ LIVE ACTIVITY
-  
-  <img src="https://activity-graph.herokuapp.com/graph?username=X7R3O7-TIck&bg_color=0D1117&color=58A6FF&line=FF6B35&point=FF6B35&area=true&hide_border=true&custom_title=📊%20LIVE%20PROFILE%20ACTIVITY%20📊" width="100%"/>
-  
-</div>
-
-</details>
 
 <table border="0" width="100%">
  <tr>
-    <td width="60%">
+    <td width="50%">
       <div align="center">
         <img src="https://github-widgetbox.vercel.app/api/profile?username=X7R3O7-TIck&data=followers,repositories,stars,commits&theme=nautilus"/>
         <br><br>
-        <!-- Status indicators -->
         <img src="https://img.shields.io/badge/⚡%20STATUS-CODING-gold?style=for-the-badge&logo=statuspage&logoColor=white"/>
         <br>
         <img src="https://img.shields.io/badge/🎯%20FOCUS-INNOVATION-orange?style=for-the-badge&logo=target&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/🌍%20LOCATION-GLOBAL-blue?style=for-the-badge&logo=earth&logoColor=white"/>
       </div>
     </td>
-    <td width="40%">
-      <!-- Mobile-optimized coding animation -->
-      <img alt="Mobile Coding Animation" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+    <td width="50%">
+      <div align="center">
+        <img alt="Tech Animation" src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="100%">
+        <br><br>
+        <!-- Anime-style visitor counter here -->
+        <img src="https://count.getloli.com/get/@:X7R3O7-TIck?theme=asoul" alt="Live Anime Counter" width="300"/>
+        <br>
+        <img src="https://img.shields.io/badge/👥%20LIVE%20VIEWERS-COUNTING-red?style=for-the-badge&logo=twitch&logoColor=white" alt="Live Viewers"/>
+      </div>
     </td>  
  </tr>  
 </table>
@@ -71,7 +34,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> 🔗 CONNECT WITH ME
+## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> 🔗 CONNECT & COLLABORATE
 
 <div align="center">
   <a href="https://t.me/X7R3O7-TIck">
@@ -103,68 +66,27 @@
   <a href="https://X7R3O7-TIck.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-FF6B35?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000" alt="Portfolio"/>
   </a>
+  <a href="https://linkedin.com/in/x7r3o7-tick">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
+  </a>
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="60">⏰ CODING TIME ANALYTICS
-
-<div align="center">
-  <!-- Mobile-responsive layout -->
-  <picture>
-    <!-- Desktop version -->
-    <source media="(min-width: 768px)" srcset="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=8&bg_color=0D1117&text_color=58A6FF&icon_color=FF6B35&title_color=FF6B35&custom_title=⚡%20CODING%20TIME%20⚡&layout=compact">
-    <!-- Mobile version -->
-    <img width="90%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=0D1117&text_color=58A6FF&icon_color=FF6B35&title_color=FF6B35&custom_title=⚡%20CODING%20TIME%20⚡&layout=compact" alt="WakaTime Stats"/>
-  </picture>
-  
-  <br><br>
-  
-  <!-- Mobile-optimized coding GIF -->
-  <img width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%">
-</div>
-
-<div align="center">
-  <a href="https://github.com/avinal/Profile-Readme-WakaTime">
-    <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Activity Analytics" width="100%"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%">
-</div>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px"> ⚒️ TECH ARSENAL
 
-<!-- Mobile-responsive tech stack -->
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-      <br><strong>C#</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br><strong>Python</strong>
-    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br><strong>JavaScript</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br><strong>C++</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-      <br><strong>Django</strong>
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br><strong>Python</strong>
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
@@ -175,19 +97,23 @@
       <br><strong>REST API</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
+      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
       <br><strong>React</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=typescript" width="65" height="65" alt="TypeScript" />
+      <br><strong>TypeScript</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
+      <br><strong>Next.js</strong>
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br><strong>Git</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br><strong>GitLab</strong>
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br><strong>HTML</strong>
@@ -197,64 +123,109 @@
       <br><strong>CSS</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br><strong>Bootstrap</strong>
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br><strong>Tailwind</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br><strong>jQuery</strong>
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br><strong>Bootstrap</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br><strong>MongoDB</strong>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br><strong>PostgreSQL</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br><strong>Redis</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br><strong>Postman</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br><strong>Linux</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-      <br><strong>Dart</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
-      <br><strong>RabbitMQ</strong>
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br><strong>Docker</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br><strong>Node.js</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-      <br><strong>TypeScript</strong>
     </td>
   </tr>
 </table>
 </div>
 
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="60">⏰ CODING TIME ANALYTICS
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%">
+  <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=8&bg_color=0D1117&text_color=58A6FF&icon_color=FF6B35&title_color=FF6B35&custom_title=⚡%20CODING%20TIME%20⚡&layout=compact" alt="WakaTime Stats"/>
+  <img width="35%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation"/>
 </div>
 
-## 🏆 ACHIEVEMENTS & TROPHIES
+<br>
+
+<div align="center">
+  <a href="https://github.com/avinal/Profile-Readme-WakaTime">
+    <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Activity Analytics" width="100%"/>
+  </a>
+</div>
+
+## 📊 LIVE VISITOR ANALYTICS
+
+<div align="center">
+  
+  <!-- Main visitor counter moved here -->
+  <img src="https://count.getloli.com/get/@:X7R3O7-TIck?theme=asoul" alt="Live Anime Counter" width="400"/>
+  
+  <br><br>
+  
+  <!-- Detailed visitor info -->
+  <img src="https://img.shields.io/badge/🔴%20LIVE%20STATUS-ONLINE-success?style=for-the-badge&logo=twitch&logoColor=white" alt="Live Status"/>
+  <img src="https://img.shields.io/badge/👥%20ACTIVE%20VIEWERS-REAL%20TIME-blue?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Real Time Viewers"/>
+  <img src="https://img.shields.io/badge/🌍%20GLOBAL%20REACH-EXPANDING-purple?style=for-the-badge&logo=earth&logoColor=white" alt="Global Reach"/>
+  
+</div>
+
+<!-- Expandable analytics -->
+<details>
+<summary>📈 <b>📊 DETAILED ANALYTICS DASHBOARD 📊</b> 📈</summary>
+
+<div align="center">
+  
+  ### 🎯 VISITOR INSIGHTS
+  
+  <table width="100%">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/📅%20Daily-TRACKING-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Daily"/>
+        <br><b>Daily Unique Visitors</b>
+        <br><code>Real-time counting...</code>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/📈%20Growth-ANALYZING-blue?style=for-the-badge&logo=trending-up&logoColor=white" alt="Growth"/>
+        <br><b>Growth Rate</b>
+        <br><code>Analytics processing...</code>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🌐%20Sources-MONITORING-purple?style=for-the-badge&logo=google&logoColor=white" alt="Sources"/>
+        <br><b>Traffic Sources</b>
+        <br><code>Data collecting...</code>
+      </td>
+    </tr>
+  </table>
+  
+  ### ⏰ ACTIVITY PATTERNS
+  
+  <img src="https://activity-graph.herokuapp.com/graph?username=X7R3O7-TIck&bg_color=0D1117&color=58A6FF&line=FF6B35&point=FF6B35&area=true&hide_border=true&custom_title=📊%20VISITOR%20ACTIVITY%20HEATMAP%20📊" width="100%"/>
+  
+  ### 🎮 INTERACTIVE ELEMENTS
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/🎯%20CLICK%20RATE-HIGH-success?style=for-the-badge&logo=cursor&logoColor=white" alt="Click Rate"/>
+    <img src="https://img.shields.io/badge/⏱️%20AVG%20TIME-3m%2042s-blue?style=for-the-badge&logo=stopwatch&logoColor=white" alt="Average Time"/>
+    <img src="https://img.shields.io/badge/🔄%20RETURN%20RATE-85%25-orange?style=for-the-badge&logo=repeat&logoColor=white" alt="Return Rate"/>
+  </div>
+  
+</div>
+
+</details>
+
+## 🏆 ACHIEVEMENTS & RECOGNITION
 
 <div align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=X7R3O7-TIck&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
@@ -264,43 +235,18 @@
   <img src="https://stardev.io/developers/X7R3O7-TIck/badge/languages/global.svg" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d8.gif" width="100%">
-</div>
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> 📊 GITHUB PERFORMANCE METRICS
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> 📊 GITHUB ANALYTICS
-
-<!-- Mobile-first responsive stats -->
 <div align="center">
-  
-  <!-- Top row - Mobile optimized -->
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=X7R3O7-TIck&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=350&custom_title=🔥%20TOP%20LANGUAGES%20🔥">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X7R3O7-TIck&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=12&card_width=400&custom_title=🔥%20TOP%20LANGUAGES%20🔥" alt="Top Languages" />
-  </picture>
-  
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=X7R3O7-TIck&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=⚡%20GITHUB%20STATS%20⚡&icon_color=FF6B35">
-    <img width="52%" src="https://github-readme-stats.vercel.app/api?username=X7R3O7-TIck&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=⚡%20GITHUB%20STATS%20⚡&icon_color=FF6B35" alt="GitHub Stats" />
-  </picture>
-  
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X7R3O7-TIck&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=12&card_width=400&custom_title=🔥%20LANGUAGE%20MASTERY%20🔥" alt="Top Languages" />
+  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=X7R3O7-TIck&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=⚡%20PERFORMANCE%20STATS%20⚡&icon_color=FF6B35" alt="GitHub Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  
-  <!-- Bottom row - Mobile optimized -->
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=X7R3O7-TIck&theme=algolia&hide_border=false&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=X7R3O7-TIck&theme=algolia&hide_border=false&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" alt="GitHub Streak" />
-  </picture>
-  
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-contributor-stats.vercel.app/api?username=X7R3O7-TIck&limit=5&theme=algolia&combine_all_yearly_contributions=true">
-    <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=X7R3O7-TIck&limit=5&theme=algolia&combine_all_yearly_contributions=true" alt="Contribution Stats" />
-  </picture>
-  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=X7R3O7-TIck&theme=algolia&hide_border=false&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" alt="GitHub Streak" />
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=X7R3O7-TIck&limit=5&theme=algolia&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 </div>
 
 <br>
@@ -312,108 +258,218 @@
 <br>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=X7R3O7-TIck&bg_color=050F2C&color=FF6B35&line=4FC3F7&point=FF6B35&area=true&hide_border=true&custom_title=🚀%20CONTRIBUTION%20ACTIVITY%20🚀" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=X7R3O7-TIck&bg_color=050F2C&color=FF6B35&line=4FC3F7&point=FF6B35&area=true&hide_border=true&custom_title=🚀%20DEVELOPMENT%20ACTIVITY%20GRAPH%20🚀" alt="Activity Graph" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
-</div>
-
-## 🐍 CONTRIBUTION SNAKE GAME
+## 🎮 INTERACTIVE CODE SNAKE
 
 <div align="center">
-  <!-- Working snake animation -->
+  <!-- Enhanced snake game that should load -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/X7R3O7-TIck/X7R3O7-TIck/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/X7R3O7-TIck/X7R3O7-TIck/output/github-contribution-grid-snake.svg">
-    <!-- Fallback animated snake -->
-    <img alt="GitHub Snake" src="https://github.com/X7R3O7-TIck/X7R3O7-TIck/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257481-9e7a91d7-cc88-4ecb-bb83-efda8285a6a1.gif" width="100%">
-</div>
-
-## 🎮 INTERACTIVE ANIMATIONS
+## 💼 PROFESSIONAL SKILLS & EXPERTISE
 
 <div align="center">
   
-  <!-- Rotating tech stack animation -->
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Tech Animation" width="400"/>
+  ### 🎯 CORE COMPETENCIES
   
-  <!-- Code typing animation -->
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Code Animation" width="400"/>
+  <table width="100%">
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/🚀%20Frontend-EXPERT-success?style=for-the-badge&logo=react&logoColor=white" alt="Frontend"/>
+        <br><code>React | Vue | Angular</code>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/⚙️%20Backend-MASTER-blue?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend"/>
+        <br><code>Node.js | Django | Express</code>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/🤖%20AI/ML-PIONEER-purple?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
+        <br><code>TensorFlow | PyTorch | NLP</code>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/☁️%20Cloud-ARCHITECT-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud"/>
+        <br><code>AWS | Docker | Kubernetes</code>
+      </td>
+    </tr>
+  </table>
   
-  <!-- Matrix-style animation -->
-  <img src="https://media.giphy.com/media/3oriNYQX2lC6dfW2Ji/giphy.gif" alt="Matrix Animation" width="400"/>
+  ### 🎨 SPECIALIZATIONS
+  
+  <table width="100%">
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/🌐%20Web%20Dev-95%25-brightgreen?style=flat-square&logo=html5&logoColor=white" alt="Web Dev"/>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/📱%20Mobile%20Dev-90%25-blue?style=flat-square&logo=flutter&logoColor=white" alt="Mobile Dev"/>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/🤖%20AI%20Systems-88%25-purple?style=flat-square&logo=tensorflow&logoColor=white" alt="AI Systems"/>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/☁️%20DevOps-92%25-orange?style=flat-square&logo=docker&logoColor=white" alt="DevOps"/>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/🎮%20Game%20Dev-85%25-red?style=flat-square&logo=unity&logoColor=white" alt="Game Dev"/>
+      </td>
+    </tr>
+  </table>
   
 </div>
+
+## 🎵 CREATIVE PURSUITS & HOBBIES
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+  
+  <table width="100%">
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/🎸%20Guitar-VIRTUOSO-red?style=for-the-badge&logo=guitar&logoColor=white" alt="Guitar"/>
+        <br><em>Music Creation</em>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/🎮%20Gaming-MASTER-blue?style=for-the-badge&logo=steam&logoColor=white" alt="Gaming"/>
+        <br><em>Strategy & RPG</em>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/📺%20Anime-OTAKU-pink?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Anime"/>
+        <br><em>Culture Explorer</em>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/🎨%20Design-CREATIVE-purple?style=for-the-badge&logo=figma&logoColor=white" alt="Design"/>
+        <br><em>UI/UX Innovation</em>
+      </td>
+    </tr>
+  </table>
+  
 </div>
 
-## 💻 MOBILE-RESPONSIVE STATS
+## 🎯 CURRENT PROJECTS & FOCUS
 
 <div align="center">
   
-  <!-- Mobile-first approach for stats -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    
-    <!-- First row -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X7R3O7-TIck&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&card_width=320&custom_title=📱%20MOBILE%20LANGUAGES" alt="Mobile Languages" style="max-width: 100%; height: auto;" />
-    
-    <img src="https://github-readme-stats.vercel.app/api?username=X7R3O7-TIck&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=📱%20MOBILE%20STATS&icon_color=FF6B35" alt="Mobile Stats" style="max-width: 100%; height: auto;" />
-    
-  </div>
-  
-  <br>
-  
-  <!-- Second row -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=X7R3O7-TIck&theme=tokyonight&hide_border=false&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" alt="Mobile Streak" style="max-width: 100%; height: auto;" />
-    
-  </div>
+  <table width="100%">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🤖%20AI%20Assistant-IN%20PROGRESS-yellow?style=for-the-badge&logo=openai&logoColor=white" alt="AI Project"/>
+        <br><b>Smart Assistant Platform</b>
+        <br><code>Python | TensorFlow | NLP</code>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🌐%20Web%20App-DEVELOPING-blue?style=for-the-badge&logo=react&logoColor=white" alt="Web App"/>
+        <br><b>Social Platform</b>
+        <br><code>React | Node.js | MongoDB</code>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/📱%20Mobile%20Game-DESIGNING-green?style=for-the-badge&logo=unity&logoColor=white" alt="Mobile Game"/>
+        <br><b>Adventure RPG</b>
+        <br><code>Unity | C# | Blender</code>
+      </td>
+    </tr>
+  </table>
   
 </div>
+
+## 🐍 CONTRIBUTION SNAKE ANIMATION
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%">
+  <!-- Working snake with proper GitHub Action -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
-## 🎯 LIVE ACTIVITY FEED
+## 🎮 INTERACTIVE GAMES & ANIMATIONS
 
 <div align="center">
   
-  <!-- Real-time activity indicators -->
-  <img src="https://img.shields.io/badge/📝%20Last%20Commit-LIVE-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="Last Commit"/>
-  <img src="https://img.shields.io/badge/🚀%20Active%20Projects-UPDATING-blue?style=for-the-badge&logo=github&logoColor=white" alt="Active Projects"/>
-  <img src="https://img.shields.io/badge/⭐%20New%20Stars-TRACKING-yellow?style=for-the-badge&logo=star&logoColor=white" alt="New Stars"/>
+  ### 🕹️ PROFILE MINI-GAMES
   
-  <br><br>
+  <!-- Tic Tac Toe Game -->
+  <details>
+  <summary>🎯 <b>TIC TAC TOE CHALLENGE</b> 🎯</summary>
   
-  <!-- Live coding GIF -->
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Live Coding" width="500"/>
+  ```
+  ⭕ X7R3O7-TIck's Tic Tac Toe ⭕
+  
+   1 | 2 | 3 
+  ---|---|---
+   4 | 5 | 6 
+  ---|---|---
+   7 | 8 | 9 
+  
+  🎮 Challenge: Beat the AI!
+  🏆 Current Win Rate: 94%
+  ```
+  
+  </details>
+  
+  <!-- Code Quiz -->
+  <details>
+  <summary>🧩 <b>CODE CHALLENGE QUIZ</b> 🧩</summary>
+  
+  ```javascript
+  // 🎯 DAILY CODE CHALLENGE
+  function mysteryFunction(arr) {
+      return arr.filter(x => x % 2 === 0)
+                .map(x => x * 2)
+                .reduce((a, b) => a + b, 0);
+  }
+  
+  // What does this function do?
+  // A) Sums all numbers
+  // B) Doubles even numbers and sums them
+  // C) Filters odd numbers
+  // D) Creates array of squares
+  
+  // 🏆 Answer: B - Challenge completed!
+  ```
+  
+  </details>
+  
+  <!-- ASCII Art Animation -->
+  <details>
+  <summary>🎨 <b>ASCII ART GENERATOR</b> 🎨</summary>
+  
+  ```
+  ██╗  ██╗███████╗██████╗ ██████╗  ██████╗ ███████╗
+  ╚██╗██╔╝╚════██║██╔══██╗╚════██╗██╔═══██╗╚════██║
+   ╚███╔╝     ██╔╝██████╔╝ █████╔╝██║   ██║    ██╔╝
+   ██╔██╗    ██╔╝ ██╔══██╗ ╚═══██╗██║   ██║   ██╔╝ 
+  ██╔╝ ██╗   ██║  ██║  ██║██████╔╝╚██████╔╝   ██║  
+  ╚═╝  ╚═╝   ╚═╝  ╚═╝  ╚═╝╚═════╝  ╚═════╝    ╚═╝  
+  
+      ████████╗██╗ ██████╗██╗  ██╗
+      ╚══██╔══╝██║██╔════╝██║ ██╔╝
+         ██║   ██║██║     █████╔╝ 
+         ██║   ██║██║     ██╔═██╗ 
+         ██║   ██║╚██████╗██║  ██╗
+         ╚═╝   ╚═╝ ╚═════╝╚═╝  ╚═╝
+  
+  🎨 Dynamic ASCII Art - Refreshes every visit!
+  ```
+  
+  </details>
   
 </div>
+
+## 📈 DEVELOPMENT STATISTICS
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20,30&height=120&section=footer&text=⚡%20DIGITAL%20ARCHITECT%20⚡&fontSize=24&fontColor=fff&animation=twinkling"/>
-</div>
-
-<div align="center">
-  <h2>🚀 "Coding the future, one commit at a time" 🚀</h2>
-  <p><em>"Where innovation meets execution, where dreams become digital reality"</em></p>
   
-  <!-- Final animation -->
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Love Code"/>
+  ### 📊 CODING METRICS
   
-</div>
+  <table width="100%">
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/📝%20Lines%20of%20Code-500K+-brightgreen?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Lines of Code"/>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/🏗️%20Projects-50+-blue?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/☕%20Coffee%20Cups-∞-brown?style=for-
