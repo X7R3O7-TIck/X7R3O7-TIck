@@ -11,11 +11,6 @@
   
   <br><br>
   
-  <!-- Single main counter - anime style -->
-  <img src="https://count.getloli.com/get/@:X7R3O7-TIck?theme=asoul" alt="Live Anime Counter" width="400"/>
-  
-  <br><br>
-  
   <!-- Live status indicators -->
   <img src="https://img.shields.io/badge/🔴%20LIVE%20STATUS-ONLINE-success?style=for-the-badge&logo=twitch&logoColor=white" alt="Live Status"/>
   <img src="https://img.shields.io/badge/👥%20VIEWERS-REAL%20TIME-blue?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Real Time Viewers"/>
@@ -117,7 +112,7 @@
   
   <br><br>
   
-  <!-- Live counter moved here -->
+  <!-- Live counter -->
   <img src="https://count.getloli.com/get/@:X7R3O7-TIck?theme=asoul" alt="Live Anime Counter" width="400"/>
 </div>
 
@@ -234,8 +229,39 @@
   
   <br><br>
   
-  <!-- Live coding GIF -->
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Live Coding" width="500"/>
+  <!-- Enhanced legendary animations matrix -->
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Hacker Matrix" width="200"/>
+        <br><em>🖥️ Matrix Mode</em>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Data Flow" width="200"/>
+        <br><em>📊 Data Flow</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Code Rain" width="200"/>
+        <br><em>☔ Code Rain</em>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Cyber Network" width="200"/>
+        <br><em>🌐 Cyber Network</em>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <!-- Epic animated divider -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+  
+  <!-- Legendary coding warrior -->
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Digital Warrior" width="300"/>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&center=true&vCenter=true&width=500&height=50&duration=2000&lines=⚡+DIGITAL+ARCHITECT+⚡;💀+LEGENDARY+CODER+💀;🔥+INNOVATION+MASTER+🔥;🚀+FUTURE+BUILDER+🚀" alt="Legendary Status"/>
   
 </div>
 
@@ -249,7 +275,8 @@
   <h2>🚀 "Coding the future, one commit at a time" 🚀</h2>
   <p><em>"Where innovation meets execution, where dreams become digital reality"</em></p>
   
-  <!-- Final animation -->
+  <!-- Final legendary animation -->
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Love Code"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" alt="Cat Code"/>
   
 </div>
