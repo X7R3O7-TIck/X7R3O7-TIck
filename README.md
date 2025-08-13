@@ -112,86 +112,83 @@
   
   <br><br>
   
-  <!-- Enhanced Live Counter Section with Legendary Animations -->
-  <div style="background: linear-gradient(45deg, #1a1a2e, #16213e, #0f3460); padding: 20px; border-radius: 15px; border: 2px solid #FF6B35;">
-    
-    <!-- Animated Matrix Background -->
-    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Matrix Background" width="100%" style="opacity: 0.3; position: absolute; z-index: 0;"/>
-    
-    <!-- Main Counter with Glitch Effect -->
-    <table width="100%" style="position: relative; z-index: 1;">
-      <tr>
-        <td align="center" width="30%">
-          <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Cyber Eye" width="120"/>
-          <br><b>🔮 SCANNING</b>
-        </td>
-        <td align="center" width="40%">
-          <img src="https://count.getloli.com/get/@:X7R3O7-TIck?theme=asoul" alt="Live Counter" width="300"/>
-          <br>
-          <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=20&center=true&vCenter=true&width=300&height=40&duration=1500&lines=👁️+LIVE+WATCHERS+👁️;📡+REAL+TIME+DATA+📡;🌐+GLOBAL+TRACKING+🌐;⚡+DIGITAL+PULSE+⚡" alt="Counter Status"/>
-        </td>
-        <td align="center" width="30%">
-          <img src="https://media.giphy.com/media/26AHPxxnSw1L9T1rW/giphy.gif" alt="Data Stream" width="120"/>
-          <br><b>📊 ANALYZING</b>
-        </td>
-      </tr>
-    </table>
-    
-    <br>
-    
-    <!-- Live Statistics Dashboard -->
-    <table width="100%">
-      <tr>
-        <td align="center" width="25%">
-          <img src="https://img.shields.io/badge/🎯%20TODAY-ACTIVE-ff6b35?style=for-the-badge&logo=target&logoColor=white&labelColor=1a1a2e" alt="Today Active"/>
-          <br>
-          <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Pulse" width="50"/>
-        </td>
-        <td align="center" width="25%">
-          <img src="https://img.shields.io/badge/🌍%20GLOBAL-REACH-4fc3f7?style=for-the-badge&logo=world&logoColor=white&labelColor=1a1a2e" alt="Global Reach"/>
-          <br>
-          <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="World" width="50"/>
-        </td>
-        <td align="center" width="25%">
-          <img src="https://img.shields.io/badge/📈%20TRENDING-UP-00ff88?style=for-the-badge&logo=trending-up&logoColor=white&labelColor=1a1a2e" alt="Trending"/>
-          <br>
-          <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Growth" width="50"/>
-        </td>
-        <td align="center" width="25%">
-          <img src="https://img.shields.io/badge/⚡%20POWER-LEVEL-ffd700?style=for-the-badge&logo=lightning&logoColor=white&labelColor=1a1a2e" alt="Power Level"/>
-          <br>
-          <img src="https://media.giphy.com/media/26BRQaiZM0IeyoJfa/giphy.gif" alt="Energy" width="50"/>
-        </td>
-      </tr>
-    </table>
-    
-    <br>
-    
-    <!-- Epic Animated Separators -->
-    <img src="https://media.giphy.com/media/3oEjHCWdU7F4hkcudy/giphy.gif" alt="Cyber Line" width="100%" height="20"/>
-    
-    <!-- Multi-Counter Display -->
-    <table width="100%">
-      <tr>
-        <td align="center" width="33%">
-          <img src="https://profile-counter.glitch.me/X7R3O7-TIck/count.svg" alt="Profile Views" width="150"/>
-          <br><b>👀 PROFILE VIEWS</b>
-        </td>
-        <td align="center" width="33%">
-          <img src="https://komarev.com/ghpvc/?username=X7R3O7-TIck&style=plastic&color=ff6b35&label=VISITORS" alt="Visitor Badge" width="150"/>
-          <br><b>🚀 UNIQUE VISITORS</b>
-        </td>
-        <td align="center" width="33%">
-          <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FX7R3O7-TIck&count_bg=%23FF6B35&title_bg=%231A1A2E&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false" alt="Hits Counter" width="150"/>
-          <br><b>💥 TOTAL HITS</b>
-        </td>
-      </tr>
-    </table>
-    
-    <!-- Legendary Status Indicators -->
-    <br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=16&center=true&vCenter=true&width=800&height=30&duration=2000&lines=🔥+LEGENDARY+STATUS:+DIGITAL+ARCHITECT+🔥;⚡+POWER+LEVEL:+OVER+9000+⚡;💎+RARE+CLASS:+CODE+WIZARD+💎;🌟+ACHIEVEMENT+UNLOCKED:+AI+PIONEER+🌟" alt="Legendary Status"/>
-    
+  <!-- Enhanced Live Counter Section - Fixed Version -->
+  <table width="100%" cellpadding="10">
+    <tr>
+      <td align="center" colspan="3">
+        <!-- Main Counter Display -->
+        <img src="https://count.getloli.com/get/@:X7R3O7-TIck?theme=asoul" alt="Live Anime Counter" width="400"/>
+        <br><br>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=22&center=true&vCenter=true&width=600&height=50&duration=2000&lines=👁️+LIVE+WATCHERS+ONLINE+👁️;📡+REAL+TIME+TRACKING+📡;🌐+GLOBAL+DIGITAL+PULSE+🌐;⚡+LEGENDARY+STATUS+ACTIVE+⚡" alt="Counter Status"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Cyber Eye" width="100"/>
+        <br><strong>🔮 SCANNING</strong>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Data Matrix" width="100"/>
+        <br><strong>🧠 PROCESSING</strong>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/26AHPxxnSw1L9T1rW/giphy.gif" alt="Data Stream" width="100"/>
+        <br><strong>📊 ANALYZING</strong>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <!-- Multi-Counter Dashboard -->
+  <table width="100%">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://komarev.com/ghpvc/?username=X7R3O7-TIck&style=for-the-badge&color=ff6b35&label=VISITORS" alt="Visitor Counter"/>
+        <br>
+        <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Pulse" width="60"/>
+        <br><strong>🚀 UNIQUE VISITORS</strong>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FX7R3O7-TIck&count_bg=%23FF6B35&title_bg=%231A1A2E&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false" alt="Hits Counter"/>
+        <br>
+        <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Growth" width="60"/>
+        <br><strong>💥 TOTAL HITS</strong>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://profile-counter.glitch.me/X7R3O7-TIck/count.svg" alt="Profile Views"/>
+        <br>
+        <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="World" width="60"/>
+        <br><strong>👀 PROFILE VIEWS</strong>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <!-- Live Status Indicators -->
+  <table width="100%">
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/🎯%20TODAY-ACTIVE-ff6b35?style=for-the-badge&logo=target&logoColor=white" alt="Today Active"/>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/🌍%20GLOBAL-REACH-4fc3f7?style=for-the-badge&logo=world&logoColor=white" alt="Global Reach"/>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/📈%20TRENDING-UP-00ff88?style=for-the-badge&logo=trending-up&logoColor=white" alt="Trending"/>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/⚡%20POWER-LEVEL-ffd700?style=for-the-badge&logo=lightning&logoColor=white" alt="Power Level"/>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <!-- Legendary Status Bar -->
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=18&center=true&vCenter=true&width=700&height=40&duration=2500&lines=🔥+LEGENDARY+STATUS:+DIGITAL+ARCHITECT+🔥;⚡+POWER+LEVEL:+OVER+9000+⚡;💎+ELITE+CLASS:+CODE+WIZARD+💎;🌟+ACHIEVEMENT:+AI+PIONEER+🌟;🚀+RANK:+INNOVATION+MASTER+🚀" alt="Legendary Status"/>
   </div>
 </div>
 
