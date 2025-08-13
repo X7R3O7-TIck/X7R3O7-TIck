@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=600&height=80&duration=3000&lines=🔥+DIGITAL+ARCHITECT+🔥;⚡+X7R3O7-TIck+⚡;🚀+CODE+WIZARD+🚀;💎+AI+PIONEER+💎;🎯+INNOVATION+MASTER+🎯" alt="Typing Animation"/>
 </div>
 
-## 📊 LIVE VISITOR COUNTER
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Tech Animation" width="400"/>
@@ -112,84 +111,8 @@
   
   <br><br>
   
-  <!-- Enhanced Live Counter Section - Fixed Version -->
-  <table width="100%" cellpadding="10">
-    <tr>
-      <td align="center" colspan="3">
-        <!-- Main Counter Display -->
-        <img src="https://count.getloli.com/get/@:X7R3O7-TIck?theme=asoul" alt="Live Anime Counter" width="400"/>
-        <br><br>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=22&center=true&vCenter=true&width=600&height=50&duration=2000&lines=👁️+LIVE+WATCHERS+ONLINE+👁️;📡+REAL+TIME+TRACKING+📡;🌐+GLOBAL+DIGITAL+PULSE+🌐;⚡+LEGENDARY+STATUS+ACTIVE+⚡" alt="Counter Status"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Cyber Eye" width="100"/>
-        <br><strong>🔮 SCANNING</strong>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Data Matrix" width="100"/>
-        <br><strong>🧠 PROCESSING</strong>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/26AHPxxnSw1L9T1rW/giphy.gif" alt="Data Stream" width="100"/>
-        <br><strong>📊 ANALYZING</strong>
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <!-- Multi-Counter Dashboard -->
-  <table width="100%">
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://komarev.com/ghpvc/?username=X7R3O7-TIck&style=for-the-badge&color=ff6b35&label=VISITORS" alt="Visitor Counter"/>
-        <br>
-        <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Pulse" width="60"/>
-        <br><strong>🚀 UNIQUE VISITORS</strong>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FX7R3O7-TIck&count_bg=%23FF6B35&title_bg=%231A1A2E&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false" alt="Hits Counter"/>
-        <br>
-        <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Growth" width="60"/>
-        <br><strong>💥 TOTAL HITS</strong>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://profile-counter.glitch.me/X7R3O7-TIck/count.svg" alt="Profile Views"/>
-        <br>
-        <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="World" width="60"/>
-        <br><strong>👀 PROFILE VIEWS</strong>
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <!-- Live Status Indicators -->
-  <table width="100%">
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🎯%20TODAY-ACTIVE-ff6b35?style=for-the-badge&logo=target&logoColor=white" alt="Today Active"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🌍%20GLOBAL-REACH-4fc3f7?style=for-the-badge&logo=world&logoColor=white" alt="Global Reach"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/📈%20TRENDING-UP-00ff88?style=for-the-badge&logo=trending-up&logoColor=white" alt="Trending"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/⚡%20POWER-LEVEL-ffd700?style=for-the-badge&logo=lightning&logoColor=white" alt="Power Level"/>
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <!-- Legendary Status Bar -->
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=18&center=true&vCenter=true&width=700&height=40&duration=2500&lines=🔥+LEGENDARY+STATUS:+DIGITAL+ARCHITECT+🔥;⚡+POWER+LEVEL:+OVER+9000+⚡;💎+ELITE+CLASS:+CODE+WIZARD+💎;🌟+ACHIEVEMENT:+AI+PIONEER+🌟;🚀+RANK:+INNOVATION+MASTER+🚀" alt="Legendary Status"/>
-  </div>
+  <!-- Live counter -->
+  <img src="https://count.getloli.com/get/@:X7R3O7-TIck?theme=asoul" alt="Live Anime Counter" width="400"/>
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px"> ⚒️ TECH ARSENAL
